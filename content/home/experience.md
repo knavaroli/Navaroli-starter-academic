@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Assistant Director and Curator
+    company: Ruth Funk Center for Textile Art at Florida Tech
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: 
+    location: Florida
+    date_start: '2010-2-22'
+    date_end: '2020-6-5'
     description: |2-
-        Responsibilities include:
+        Responsible for overseeing daily operations; organizing exhibitions and exhibition-related programs; and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
         
         * Analysing
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Corporate and Foundation Relations Coordinator
+    company: Orlando Museum of Art
+    company_url: 'www.omart.org'
+    company_logo: 
+    location: Florida
+    date_start: '2007-09-01'
+    date_end: '2009-06-5'
+    description: Responsible for all aspects of grant proposal writing and reporting, managed corporate sponsorship and recognition, and managed donor bequests and other aspects of the museum’s planned giving program.
 
 design:
   columns: '2'
