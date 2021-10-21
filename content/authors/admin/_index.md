@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Keidra Daniels Navaroli is a McKnight Doctoral Fellow in the Texts and Technology PhD Program at the University of Central Florida. She is the former assistant director and curator of the Ruth Funk Center for Textile Arts at Florida Institute of Technology (Florida Tech), where she was responsible for overseeing daily operations; organizing exhibitions and exhibition-related programs; and working with other university units and public organizations to promote collaborative, interdisciplinary projects. Her research focuses on addressing how textiles – a familiar, yet dynamic medium – can be utilized to question cultural divisions, foster intergenerational dialogue, and enhance the understanding of traditionally-underrepresented communities. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She received her M.A. in the History and Criticism of Art from Florida State University (B.A. in Art History from the University of Florida); completed internships with the Metropolitan Museum of Art and Sotheby’s Auction House in New York; and is an alumna of the Museum Leadership Institute’s NextGen Program. Recently, she was selected as a Constellation Leader for POLARIS: The Museum Mentor Network and is currently serving as a board member for the Association of Academic Museums and Galleries. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
