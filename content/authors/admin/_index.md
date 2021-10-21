@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include arts, vidya games, stuff.
+bio: This is my bio and says fun stuff.
 
 # Interests to show in About widget
 interests:
