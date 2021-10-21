@@ -14,13 +14,13 @@ organizations:
   url: https://www.ucf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is my bio and says fun stuff.
+Keidra Daniels Navaroli is a McKnight Doctoral Fellow in the Texts and Technology PhD Program at the University of Central Florida. She is the former assistant director and curator of the Ruth Funk Center for Textile Arts at Florida Institute of Technology (Florida Tech), where she was responsible for overseeing daily operations; organizing exhibitions and exhibition-related programs; and working with other university units and public organizations to promote collaborative, interdisciplinary projects. Her research focuses on addressing how textiles – a familiar, yet dynamic medium – can be utilized to question cultural divisions, foster intergenerational dialogue, and enhance the understanding of traditionally-underrepresented communities. She is an alumna of the Museum Leadership Institute’s NextGen Program and currently serves as a board member for the Association of Academic Museums and Galleries (AAMG). 
 
 # Interests to show in About widget
 interests:
-- vidya games
-- more things
-- overthinking
+- Art History and Museum Studies
+- Design Thinking 
+- Interdisciplinary Research
 
 # Education to show in About widget
 education:
