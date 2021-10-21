@@ -6,7 +6,7 @@ title: Keidra Navaroli
 superuser: true
 
 # Role/position/tagline
-role: PHD Fellow and hater of this website
+role: Trying to find out if changing this shows up
 
 # Organizations/Affiliations to show in About widget
 organizations:
