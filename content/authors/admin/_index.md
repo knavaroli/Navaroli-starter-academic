@@ -18,9 +18,9 @@ bio: This is my bio and says fun stuff.
 
 # Interests to show in About widget
 interests:
-- stuff
+- vidya games
 - more things
-- Information Retrieval
+- overthinking
 
 # Education to show in About widget
 education:
