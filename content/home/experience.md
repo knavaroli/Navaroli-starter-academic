@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsible for overseeing daily operations; organizing exhibitions and exhibition-related programs; and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
         
-        * Analysing
-        * Modelling
-        * Deploying
+        
+        
+        
         
   - title: Corporate and Foundation Relations Coordinator
     company: Orlando Museum of Art
