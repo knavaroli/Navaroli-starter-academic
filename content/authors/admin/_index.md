@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+  icon_pack: ai
+   link: https://drive.google.com/uc?export=download&id=1kvKOPAEL_EU8CtzaZkecQDdVrCdNmrpM
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
