@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Florida
-    date_start: '2010-02-22'
-    date_end: '2020-06-05'
+    date_start: ''
+    date_end: ''
     description: |2-
         Responsible for overseeing daily operations; organizing exhibitions and exhibition-related programs; and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
         
@@ -41,8 +41,8 @@ experience:
     company_url: 'www.omart.org'
     company_logo: 
     location: Florida
-    date_start: '2007-09-01'
-    date_end: '2009-06-05'
+    date_start: ''
+    date_end: ''
     description: Responsible for all aspects of grant proposal writing and reporting, managed corporate sponsorship and recognition, and managed donor bequests and other aspects of the museum’s planned giving program.
 
 design:
