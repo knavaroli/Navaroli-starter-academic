@@ -23,7 +23,7 @@ date_format: '2006-12-25'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Director and Curator
-    company: Ruth Funk Center for Textile Art at Florida Tech
+    company: Ruth Funk Center for Textile Arts at Florida Tech
     company_url: ''
     company_logo: 
     location: Florida
