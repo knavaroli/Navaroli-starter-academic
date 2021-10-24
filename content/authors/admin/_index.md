@@ -74,4 +74,4 @@ Keidra Daniels Navaroli is a McKnight Doctoral Fellow in the Texts and Technolog
 
 She received her M.A. in the History and Criticism of Art from Florida State University (B.A. in Art History from the University of Florida); completed internships with the Metropolitan Museum of Art and Sotheby’s Auction House in New York; and is an alumna of the Museum Leadership Institute’s NextGen Program. Recently, she was selected as a Constellation Leader for POLARIS: The Museum Mentor Network and is currently serving as a board member for the Association of Academic Museums and Galleries. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/uc?export=download&id=1kvKOPAEL_EU8CtzaZkecQDdVrCdNmrpM" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/uc?export=download&id=1kvKOPAEL_EU8CtzaZkecQDdVrCdNmrpM" "newtab" >}}curriculum vitae{{< /staticref >}}.
