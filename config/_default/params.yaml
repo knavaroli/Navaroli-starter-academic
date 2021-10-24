@@ -23,10 +23,7 @@ twitter: ''
 email: knavaroli@knights.ucf.edu
 phone: 
 address: 
-  street: |
-    University of Central Florida 
-    4000 Central Florida Blvd  
-    P.O. Box 161889
+  street: "University of Central Florida\n4000 Central Florida Blvd\nP.O. Box 161889"    
   city: Orlando
   region: Florida
   postcode: '32816-1990'
