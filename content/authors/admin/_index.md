@@ -33,9 +33,7 @@ education:
     year: 2007
   - course: BA in Art History
     institution: University of Florida
-    year: 2005 
-    
-  
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
