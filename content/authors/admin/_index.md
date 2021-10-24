@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'knavaroli@knights.ucf.edu'
-- icon: 
-  icon_pack:
-  link:
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/uc?export=download&id=1kvKOPAEL_EU8CtzaZkecQDdVrCdNmrpM
 - icon: # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack:
   link: 
