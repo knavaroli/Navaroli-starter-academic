@@ -25,10 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Certficate, NextGen Program for Museum Leadership 
-    institution: Museum Leadership Institute
-    year: 2018
-    - course: MA in Art History and Criticism
+  - course: MA in Art History and Criticism
     institution: Florida State University
     year: 2007
   - course: BA in Art History
