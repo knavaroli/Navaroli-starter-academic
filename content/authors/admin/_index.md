@@ -26,14 +26,14 @@ interests:
 education:
   courses:
     - course: Certficate, NextGen Program for Museum Leadership 
-    - institution: Museum Leadership Institute
-    - year: 2018
+     institution: Museum Leadership Institute
+     year: 2018
   - course: M.A. in Art History and Criticism
-   - institution: Florida State University
-   - year: 2007
+    institution: Florida State University
+    year: 2007
   - course: B.A. in Art History
-   - institution: University of Florida
-   - year: 2005
+    institution: University of Florida
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
