@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 06 2006
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Florida
-    date_start: '02 2010'
-    date_end: '06 2020'
+    date_start: '2010-02-01'
+    date_end: '2020-06-01'
     description: |2-
         Responsible for overseeing daily operations; organizing exhibitions and exhibition-related programs; and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
        
@@ -38,8 +38,8 @@ experience:
     company_url: 'www.omart.org'
     company_logo: 
     location: Florida
-    date_start: '09 2007'
-    date_end: '05 2009'
+    date_start: '2007-09-01'
+    date_end: '2009-05-01'
     description: Responsible for all aspects of grant proposal writing and reporting, managed corporate sponsorship and recognition, and managed donor bequests and other aspects of the museum’s planned giving program.
 
 design:
