@@ -4,7 +4,7 @@
 widget: featurette
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -19,18 +19,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 100%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Microsoft Word
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: PastPerfect Software
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Adobe InDesign and Illustrator
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
