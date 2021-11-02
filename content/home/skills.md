@@ -27,7 +27,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: PastPerfect Software
-- description: 10%
+- description: 25%
   icon: camera-retro
   icon_pack: fas
   name: Adobe InDesign and Illustrator
