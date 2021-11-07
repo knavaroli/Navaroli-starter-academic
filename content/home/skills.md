@@ -20,15 +20,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: r-project
+  icon: windows
   icon_pack: fab
-  name: Microsoft Word
+  name: Microsoft Suite
 - description: 100%
   icon: chart-line
   icon_pack: fas
   name: PastPerfect Software
 - description: 25%
-  icon: camera-retro
+  icon: file-pdf
   icon_pack: fas
   name: Adobe InDesign and Illustrator
 
