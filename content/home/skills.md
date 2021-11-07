@@ -31,6 +31,14 @@ feature:
   icon: file-pdf
   icon_pack: fas
   name: Adobe InDesign and Illustrator
+- description: 50%
+  icon: fa-google-drive
+  icon_pack: fab
+  name: Google Drive
+- description: 50%
+  icon: fa-linkedin-in
+  icon_pack: fab
+  name: LinkedIn
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
