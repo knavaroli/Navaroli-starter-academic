@@ -39,7 +39,12 @@ feature:
   icon: linkedin-in
   icon_pack: fab
   name: LinkedIn
-
+- description: 50%
+  icon: mailchimp
+  icon_pack: fab
+  name: Mailchimp
+- description: 10%
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
