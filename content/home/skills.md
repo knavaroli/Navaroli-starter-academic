@@ -24,7 +24,7 @@ feature:
   icon_pack: fab
   name: Microsoft Suite
 - description: 100%
-  icon: chart-line
+  icon: archive
   icon_pack: fas
   name: PastPerfect Software
 - description: 25%
@@ -43,7 +43,16 @@ feature:
   icon: mailchimp
   icon_pack: fab
   name: Mailchimp
-- description: 10%
+- description: 75%
+  icon: chalkboard-teacher
+  icon_pack: fab
+  name: Public Speaking
+- description: 75%
+  icon: landmark
+  icon_pack: fab
+  name: Museum Management & Strategic Planning
+
+
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
