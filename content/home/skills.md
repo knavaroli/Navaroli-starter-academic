@@ -45,11 +45,11 @@ feature:
   name: Mailchimp
 - description: 75%
   icon: chalkboard-teacher
-  icon_pack: fab
+  icon_pack: fas
   name: Public Speaking
 - description: 75%
   icon: landmark
-  icon_pack: fab
+  icon_pack: fas
   name: Museum Management & Strategic Planning
 
 
