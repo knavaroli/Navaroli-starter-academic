@@ -39,8 +39,7 @@ experience:
     location: Florida
     date_start: '2010-02-01'
     date_end: '2014-10-30'
-    description: |2-
-        Responsible for overseeing daily operations and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
+    description: Responsible for overseeing daily operations and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
         
   - title: Corporate and Foundation Relations Coordinator
     company: Orlando Museum of Art
