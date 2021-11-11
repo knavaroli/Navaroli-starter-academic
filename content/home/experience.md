@@ -46,7 +46,7 @@ experience:
         
   - title: Corporate and Foundation Relations Coordinator
     company: Orlando Museum of Art
-    company_url: 'www.omart.org'
+    company_url: 'https://omart.org/'
     company_logo: 
     location: Florida
     date_start: '2007-09-01'
