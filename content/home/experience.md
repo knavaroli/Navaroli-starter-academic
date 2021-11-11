@@ -33,7 +33,7 @@ experience:
         Responsible for overseeing daily operations; organizing exhibitions and exhibition-related programs; and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
        
 
-  - title: Assistant Director and Curator
+  - title: Assistant Director
     company: Ruth Funk Center for Textile Arts at Florida Tech
     company_url: ''
     company_logo: 
