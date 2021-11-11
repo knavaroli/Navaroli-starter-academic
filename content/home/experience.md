@@ -41,7 +41,7 @@ experience:
     date_start: '2010-02-01'
     date_end: '2020-06-01'
     description: |2-
-        Responsible for overseeing daily operations; organizing exhibitions and exhibition-related programs; and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
+        Responsible for overseeing daily operations and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
 
         
   - title: Corporate and Foundation Relations Coordinator
