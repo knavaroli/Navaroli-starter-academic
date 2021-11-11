@@ -27,19 +27,23 @@ experience:
     company_url: ''
     company_logo: 
     location: Florida
-    date_start: '2014-10-31'
+    date_start: '2010-02-01'
     date_end: '2020-06-01'
     description: |2-
         Responsible for overseeing daily operations; organizing exhibitions and exhibition-related programs; and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
-   - title: Assistant Director 
+       
+
+  - title: Assistant Director and Curator
     company: Ruth Funk Center for Textile Arts at Florida Tech
     company_url: ''
     company_logo: 
     location: Florida
     date_start: '2010-02-01'
-    date_end: '2014-10-30'
+    date_end: '2020-06-01'
     description: |2-
-        Responsible for overseeing daily operations and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
+        Responsible for overseeing daily operations; organizing exhibitions and exhibition-related programs; and working with other university units and public organizations to promote collaborative, interdisciplinary projects. 
+
+        
   - title: Corporate and Foundation Relations Coordinator
     company: Orlando Museum of Art
     company_url: 'www.omart.org'
@@ -47,8 +51,7 @@ experience:
     location: Florida
     date_start: '2007-09-01'
     date_end: '2009-05-01'
-    description: |2- 
-        Responsible for all aspects of grant proposal writing and reporting, managed corporate sponsorship and recognition, and managed donor bequests and other aspects of the museum’s planned giving program.
+    description: Responsible for all aspects of grant proposal writing and reporting, managed corporate sponsorship and recognition, and managed donor bequests and other aspects of the museum’s planned giving program.
 
 design:
   columns: '2'
